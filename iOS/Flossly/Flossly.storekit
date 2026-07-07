@@ -1,0 +1,27 @@
+{
+  "identifier": "Flossly",
+  "nonRenewingSubscriptions": [],
+  "products": [
+    {
+      "displayPrice": "$0.99",
+      "familyShareable": false,
+      "internalID": "1",
+      "localizations": [
+        {
+          "description": "Multi-year streak history and habit reminder times",
+          "displayName": "Flossly Pro",
+          "locale": "en_US"
+        }
+      ],
+      "productID": "com.shimondeitel.flossly.pro",
+      "referenceName": "Flossly Pro",
+      "type": "NonConsumable"
+    }
+  ],
+  "settings": {},
+  "subscriptionGroups": [],
+  "version": {
+    "major": 3,
+    "minor": 0
+  }
+}
